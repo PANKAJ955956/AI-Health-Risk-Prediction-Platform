@@ -1,7 +1,8 @@
 flask
 flask-cors
-pymongo
-pandas
 numpy
-xgboost
+pandas
 scikit-learn
+xgboost
+joblib
+gunicorn
